@@ -1,2 +1,3 @@
 # budget_management_system
-Mini Project for budget management
+Mini Project for Event Budget Management System
+
